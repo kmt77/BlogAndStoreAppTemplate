@@ -6,5 +6,8 @@ Client application - https://blogstoreapp1client.vercel.app/
 
 Admin application - https://blog-andonline-store-app.vercel.app/
 
+Kmtec Ltd
+United Kingdom
+https://www.kmtec.co.uk
 contact@kmtec.co.uk 
 
